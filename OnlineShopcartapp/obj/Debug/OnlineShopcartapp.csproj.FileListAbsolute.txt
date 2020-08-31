@@ -1,0 +1,7 @@
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\bin\OnlineShopcartapp.dll.config
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\bin\OnlineShopcartapp.dll
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\bin\OnlineShopcartapp.pdb
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\obj\Debug\OnlineShopcartapp.csprojResolveAssemblyReference.cache
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\obj\Debug\OnlineShopcartapp.dll
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\obj\Debug\OnlineShopcartapp.pdb
+H:\DOTNETK\OnlineShopcartapp\OnlineShopcartapp\bin\itextsharp.dll
